@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440" width="440" height="440" role="img" aria-label="百数表">
+<title>百数表</title>
+<rect x="0" y="0" width="440" height="440" fill="#ffffff"/>
+<rect x="0" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">1</text>
+<rect x="44" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">2</text>
+<rect x="88" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">3</text>
+<rect x="132" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">4</text>
+<rect x="176" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">5</text>
+<rect x="220" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">6</text>
+<rect x="264" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">7</text>
+<rect x="308" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">8</text>
+<rect x="352" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">9</text>
+<rect x="396" y="0" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="29.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">10</text>
+<rect x="0" y="44" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">11</text>
+<rect x="44" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">12</text>
+<rect x="88" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">13</text>
+<rect x="132" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">14</text>
+<rect x="176" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">15</text>
+<rect x="220" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">16</text>
+<rect x="264" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">17</text>
+<rect x="308" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">18</text>
+<rect x="352" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">19</text>
+<rect x="396" y="44" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="73.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">20</text>
+<rect x="0" y="88" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">21</text>
+<rect x="44" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">22</text>
+<rect x="88" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">23</text>
+<rect x="132" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">24</text>
+<rect x="176" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">25</text>
+<rect x="220" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">26</text>
+<rect x="264" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">27</text>
+<rect x="308" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">28</text>
+<rect x="352" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">29</text>
+<rect x="396" y="88" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="117.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">30</text>
+<rect x="0" y="132" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">31</text>
+<rect x="44" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">32</text>
+<rect x="88" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">33</text>
+<rect x="132" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">34</text>
+<rect x="176" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">35</text>
+<rect x="220" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">36</text>
+<rect x="264" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">37</text>
+<rect x="308" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">38</text>
+<rect x="352" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">39</text>
+<rect x="396" y="132" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="161.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">40</text>
+<rect x="0" y="176" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">41</text>
+<rect x="44" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">42</text>
+<rect x="88" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">43</text>
+<rect x="132" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">44</text>
+<rect x="176" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">45</text>
+<rect x="220" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">46</text>
+<rect x="264" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">47</text>
+<rect x="308" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">48</text>
+<rect x="352" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">49</text>
+<rect x="396" y="176" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="205.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">50</text>
+<rect x="0" y="220" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">51</text>
+<rect x="44" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">52</text>
+<rect x="88" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">53</text>
+<rect x="132" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">54</text>
+<rect x="176" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">55</text>
+<rect x="220" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">56</text>
+<rect x="264" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">57</text>
+<rect x="308" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">58</text>
+<rect x="352" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">59</text>
+<rect x="396" y="220" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="249.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">60</text>
+<rect x="0" y="264" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">61</text>
+<rect x="44" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">62</text>
+<rect x="88" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">63</text>
+<rect x="132" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">64</text>
+<rect x="176" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">65</text>
+<rect x="220" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">66</text>
+<rect x="264" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">67</text>
+<rect x="308" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">68</text>
+<rect x="352" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">69</text>
+<rect x="396" y="264" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="293.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">70</text>
+<rect x="0" y="308" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">71</text>
+<rect x="44" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">72</text>
+<rect x="88" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">73</text>
+<rect x="132" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">74</text>
+<rect x="176" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">75</text>
+<rect x="220" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">76</text>
+<rect x="264" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">77</text>
+<rect x="308" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">78</text>
+<rect x="352" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">79</text>
+<rect x="396" y="308" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="337.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">80</text>
+<rect x="0" y="352" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">81</text>
+<rect x="44" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">82</text>
+<rect x="88" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">83</text>
+<rect x="132" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">84</text>
+<rect x="176" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">85</text>
+<rect x="220" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">86</text>
+<rect x="264" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">87</text>
+<rect x="308" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">88</text>
+<rect x="352" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">89</text>
+<rect x="396" y="352" width="44" height="44" fill="#ffffff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="381.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">90</text>
+<rect x="0" y="396" width="44" height="44" fill="#ebf8ff" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="22" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">91</text>
+<rect x="44" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="66" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">92</text>
+<rect x="88" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="110" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">93</text>
+<rect x="132" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="154" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">94</text>
+<rect x="176" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="198" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">95</text>
+<rect x="220" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="242" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">96</text>
+<rect x="264" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="286" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">97</text>
+<rect x="308" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="330" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">98</text>
+<rect x="352" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="374" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">99</text>
+<rect x="396" y="396" width="44" height="44" fill="#fffaf0" stroke="#cbd2d9" stroke-width="0.8"/>
+<text x="418" y="425.04" font-size="15.84" text-anchor="middle" fill="#1f2933" font-family="Helvetica, Arial, sans-serif">100</text>
+</svg>
